@@ -1,0 +1,32 @@
+# Domain 1: Security Principles
+
+## 1.1 Definition of Security
+Security is the ongoing act of protecting **Assets** (what we value) by understanding the **Risks** (threats and vulnerabilities) and deploying the right **Controls** (tools and processes) to mitigate them.
+
+## 1.2 The CIA Triad
+To "protect what we value," we focus on three core pillars: 
+* **Confidentiality**: Ensuring only authorized users can access the data.
+* **Integrity**: Ensuring the data has not been tampered with or altered. * 
+* **Availability**: Ensuring systems and data are accessible when needed (like my Ubuntu server!).
+
+## 1.3 HOW CAN THE CIA TRIAD BE COMPROMISED 
+ incase of disgrunted employee 
+ instnce of mishandling lf companies endpoint device.
+ power outtage and natural disaster               
+  
+## 1.4 PII & Data Privacy Regulations
+Personally Identifiable Information (PII): This is any data that can be used to distinguish or trace an individual's identity (e.g., name, BVN, NIN, email, or biometric records).
+
+The Power of Combination: You correctly noted that strings of data, which might seem harmless alone, can identify someone when combined (this is often called the "Mosaic Effect").
+
+GDPR (General Data Protection Regulation): This is the "Gold Standard" of privacy laws in the EU, granting individuals the Right to be Forgotten and the Right to Access their data.
+
+Enforcement & Sanctions: Violators (including data brokers and financial institutions) face massive fines—up to €20 million or 4% of global annual turnover, whichever is higher.
+
+## 1.4 HIPAA & Healthcare Data Security
+Core Mandate: HIPAA ensures that all Protected Health Information (PHI) is handled with strict adherence to the CIA Triad.
+
+Target Entities: It applies to "Covered Entities," which includes health institutions, insurance providers, and any third-party data handlers.
+
+Industry Standards: It sets the benchmark for how health data must be encrypted (Confidentiality), protected from unauthorized changes (Integrity), and remain accessible to medical staff during emergencies (Availability).
+ 
