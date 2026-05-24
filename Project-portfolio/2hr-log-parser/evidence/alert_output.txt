@@ -1,0 +1,9 @@
+[*] Starting Security Log Analysis Engine...
+
+=== DETECTED SECURITY EVENTS ===
+[!] ALERT: Potential Brute-Force Attack Detected!
+    - Malicious Source IP: 192.168.100.45
+    - Total Failed Attempts: 5
+    - Targeted Usernames: [admin]
+    - Action Recommended: Block IP via Firewall rule.
+---------------------------------------------

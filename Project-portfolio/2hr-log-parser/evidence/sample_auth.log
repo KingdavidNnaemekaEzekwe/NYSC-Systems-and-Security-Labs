@@ -1,0 +1,7 @@
+May 24 21:00:01 server sshd[1042]: Invalid user admin from 192.168.100.45 port 49221 ssh2
+May 24 21:00:05 server sshd[1042]: Failed password for invalid user admin from 192.168.100.45 port 49221 ssh2
+May 24 21:00:10 server sshd[1042]: Failed password for invalid user admin from 192.168.100.45 port 49221 ssh2
+May 24 21:01:15 server sshd[1042]: Failed password for root from 192.168.100.99 port 53112 ssh2
+May 24 21:01:20 server sshd[1042]: Failed password for invalid user admin from 192.168.100.45 port 49221 ssh2
+May 24 21:01:32 server sshd[1042]: Failed password for invalid user admin from 192.168.100.45 port 49221 ssh2
+May 24 21:02:01 server sshd[1042]: Accepted password for kingdavid from 10.0.0.15 port 38221 ssh2

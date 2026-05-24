@@ -1,0 +1,19 @@
+# Automated SSH Brute-Force Detection Engine
+
+## Project Overview
+This project features an automated, signature-based security parsing script written in Python. It simulates defensive SOC (Security Operations Center) workflows by reading authentication logs, extracting potential indicators of compromise (IoCs), tracking failed SSH access patterns via regular expressions, and raising high-priority alerts when brute-force thresholds are breached.
+
+## Tools & Concepts Highlighted
+* **Log Analysis & Parsers:** Algorithmic event aggregation and threshold tracking.
+* **Pattern Matching:** Regular Expressions (`re` engine) for extracting source IPs and targeted usernames.
+* **Defensive Automation:** Translating raw log inputs into actionable intelligence alerts.
+
+## Project Structure
+* **scripts/** — Log parsing automation logic (`parser.py`)
+* **evidence/** — Proof of concept output logs (`alert_output.txt`)
+* **README.md** — Portfolio documentation
+
+## Setup & Execution
+To execute the log parsing engine locally against the log artifacts, run:
+```bash
+python3 scripts/parser.py
